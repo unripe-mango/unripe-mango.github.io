@@ -5,9 +5,9 @@ const main = document.getElementById('main');
 let parts = [];
 
 let images = [
-  "https://vietdoo.s3.ap-southeast-1.amazonaws.com/image/unripe-mango/IMG_8029(1).JPG",
-  "https://vietdoo.s3.ap-southeast-1.amazonaws.com/image/unripe-mango/IMG_4003.jpg",
-  "https://vietdoo.s3.ap-southeast-1.amazonaws.com/image/unripe-mango/IMG_3260.jpg"
+  "images/IMG_1460.jpg",
+  "images/IMG_0249.jpg",
+  "images/IMG_6095.jpg"
 ];
 let current = 0;
 let playing = false;
